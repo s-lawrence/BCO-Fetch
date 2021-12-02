@@ -1,0 +1,12 @@
+# Untracked files:
+#       MUJOCO_LOG.TXT
+#       __pycache__/
+#       backup.zip
+#       best_params
+#       input/
+*
+!BCO.py
+!BCO_FetchPickAndPlace.py
+!README.md
+!utils.py
+!.gitignore
